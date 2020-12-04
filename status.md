@@ -22,8 +22,8 @@ I have added more style to my homepage and made a quiz function.
 
 #### What have you not done for your project yet?
 
-I have not finished making a leaderboard.
+I have not finished making the quiz.
 
 #### What problems, if any, have you encountered?
 
-Making a leaderboard was a problem for me.
+Making a quiz function.
